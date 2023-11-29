@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #413f32;
+}
+
+.menu {
+  background-color: #c8b69b;
+}
+
+.menu-title {
+  font-size: 32px;
+  text-align: center;
+}
+
+.menu-list {
+  list-style: none;
+}
+
+ul {
+  list-style: inside;
+}
+
+.dish-page {
+  background: linear-gradient(160deg, #e3d8c8 55%, #ffffff 45%);
+}
